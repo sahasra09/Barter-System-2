@@ -3,7 +3,7 @@ import {View,Text,TextInput, TouchableOpacity,Alert,StyleSheet} from 'react-nati
 import firebase from 'firebase'
 import db from '../config'
 
-export default class WelcomeScreen extends Component{
+export default class SignUpLogin extends Component{
 
     constructor(){
         super()
